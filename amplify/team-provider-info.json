@@ -1,0 +1,20 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-socialchart-staging-62840-authRole",
+      "UnauthRoleArn": "arn:aws:iam::842782053161:role/amplify-socialchart-staging-62840-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::842782053161:role/amplify-socialchart-staging-62840-authRole",
+      "Region": "ap-northeast-2",
+      "DeploymentBucketName": "amplify-socialchart-staging-62840-deployment",
+      "UnauthRoleName": "amplify-socialchart-staging-62840-unauthRole",
+      "StackName": "amplify-socialchart-staging-62840",
+      "StackId": "arn:aws:cloudformation:ap-northeast-2:842782053161:stack/amplify-socialchart-staging-62840/39901d50-f062-11ec-ba69-0ade9de4fe62",
+      "AmplifyAppId": "dj7l5jo39esv1"
+    },
+    "categories": {
+      "auth": {
+        "socialchart": {}
+      }
+    }
+  }
+}
